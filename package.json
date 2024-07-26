@@ -9,6 +9,9 @@
   "dependencies": {
     "pngjs": "^7.0.0"
   },
+  "scripts": {
+    "test": "echo no tests yet"
+  },
   "files": [
     "UTIF.js",
     "index.js"
