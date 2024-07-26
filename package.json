@@ -8,5 +8,9 @@
   "description": "",
   "dependencies": {
     "pngjs": "^7.0.0"
-  }
+  },
+  "files": [
+    "UTIF.js",
+    "index.js"
+  ]
 }
