@@ -5,12 +5,17 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "description": "",
+  "description": "simple wrapper for UTIF.js + pngjs to convert tif images into png",
   "dependencies": {
     "pngjs": "^7.0.0"
   },
-  "scripts": {
-    "test": "echo no tests yet"
+  "homepage": "https://github.com/MaxFichtelmann/tif2png",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MaxFichtelmann/tif2png.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MaxFichtelmann/tif2png/issues"
   },
   "files": [
     "UTIF.js",
