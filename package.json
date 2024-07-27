@@ -2,6 +2,7 @@
   "name": "tif2png",
   "version": "1.1.0",
   "main": "index.js",
+  "types": "index.d.ts",
   "keywords": [],
   "author": "",
   "license": "MIT",
@@ -19,6 +20,7 @@
   },
   "files": [
     "UTIF.js",
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ]
 }
